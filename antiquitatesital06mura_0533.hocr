@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "antiquitatesital06mura_0533.png"; bbox 0 0 2169 3047; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 130 3047">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 130 3047">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 130 3047; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 130 3047; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 150 2970 436 3008">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 18 2955 436 3012">
+     <span class='ocr_line' id='line_1_2' title="bbox 150 2970 436 3008; baseline 0.024 -6.842"><span class='ocrx_word' id='word_1_2' title='bbox 150 2970 222 2999; x_wconf 74' lang='grc' dir='ltr'><strong>σεπγ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 233 2971 324 3004; x_wconf 69' lang='lat' dir='ltr'>nemen</span> <span class='ocrx_word' id='word_1_4' title='bbox 336 2977 436 3008; x_wconf 61' lang='lat' dir='ltr'><strong>uenam</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1840 2145 2042 2166">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1840 2145 2042 2166">
+     <span class='ocr_line' id='line_1_3' title="bbox 1840 2145 2042 2166; baseline -0.005 -18"><span class='ocrx_word' id='word_1_5' title='bbox 1840 2145 1866 2151; x_wconf 73' lang='grc'><strong>.,,</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1893 2148 2042 2166; x_wconf 33' lang='lat' dir='ltr'><strong>*wama-1</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2028 2014 2097 2270">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2028 2014 2097 2270">
+     <span class='ocr_line' id='line_1_4' title="bbox 2028 2234 2057 2266; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 2028 2234 2057 2266; x_wconf 21' lang='grc' dir='ltr'><strong>,ἃ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 2058 2014 2097 2270; textangle 90"><span class='ocrx_word' id='word_1_8' title='bbox 2060 2165 2092 2270; x_wconf 44' lang='lat'><strong>22³2«</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2058 2058 2097 2159; x_wconf 34' lang='lat' dir='ltr'><strong>&amp;a</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2083 2014 2088 2034; x_wconf 82' lang='grc'><strong>--</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
